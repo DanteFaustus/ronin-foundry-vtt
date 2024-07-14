@@ -1,6 +1,6 @@
 # How to use this module
 
-This module requires the use of the Mörk Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main. (also avaibale on from within Foundry interface)
+This module requires the use of the Mörk Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main. (also available on from within Foundry interface)
 
 Therefore please follow all instructions located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md for character creation, combat, creatures, inventory, etcetera. 
 
