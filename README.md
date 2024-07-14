@@ -1,4 +1,4 @@
-# ronin-rpg
+# Rōnin RPG for Foundry VTT
 This is the project page for the Rōnin RPG module for Foundry VTT.
 
 This module requires the use of the Mörk Borg game system on Foundry.
@@ -7,6 +7,8 @@ Rōnin is an independent production by Slightly Reckless Games and is not affili
 
 Ronin for Foundry VTT (this module) is an independent production by Dante Faustus. It is not affiliated with Slightly Reckless Games LTD. It is published under the Rōnin Third Party License."
 
-This module was creted with pemision of Slighgly Reckless Games LTD.
+This module was created with permission of Slightly Reckless Games LTD.
 
-To get started with this module please open the "Rōnin Read Me" Journal entry located in the compediums tab under Ronin once this module has been inatalled and activated within a game world.
+This module can be installed and activated using the standard methods outlined here: https://foundryvtt.com/article/modules/
+
+To get started using this module please open the "Rōnin Read Me" Journal entry located in the compendiums tab under Ronin once this module has been installed and activated within a game world or read the "how to use this module" file.
