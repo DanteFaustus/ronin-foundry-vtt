@@ -1,4 +1,4 @@
-# How to use this system
+# How to use this module
 
 This module requires the use of the Mörk Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main. (also avaibale on from within Foundry interface)
 
