@@ -7,4 +7,4 @@ Therefor follow all instructions located here: https://github.com/fvtt-fria-liga
 Please note: Ronin uses different terminology (and sometimes rules usage) for money, abilities, powers, and some other aspects of the game and rules.
 -  You may need to find your process to conduct combat actions not contained in the original system.
 -  The following terms in Rōnin utilize the data fields in parantesis in the oginal system.
-- Ryo (Silver)
+  - Ryo (Silver)
