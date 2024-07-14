@@ -2,7 +2,7 @@
 
 This module requires the use of the Mörk Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main. (also avaibale on from within Foundry interface)
 
-Therefor follow all instructions located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md for character creation, combat, creatures, inventory, etcetera. 
+Therefore follow all instructions located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md for character creation, combat, creatures, inventory, etcetera. 
 
 Please note: Ronin uses different terminology (and sometimes rules usage) for money, abilities, powers, and some other aspects of the game and rules.
 - You may need to find your processes to conduct combat actions not contained in the main (Mörk Borg) system.
