@@ -1,4 +1,4 @@
-#How to use this system
+**How to use this system**
 
 This module uses the Mork Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main
 
