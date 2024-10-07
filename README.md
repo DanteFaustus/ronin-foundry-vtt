@@ -11,16 +11,19 @@ This module was created with permission of Slightly Reckless Games LTD.
 
 This module can be installed and activated using the standard methods outlined here: https://foundryvtt.com/article/modules/
 
-To get started using this module please open the "Rōnin Read Me" Journal entry located in the compendiums tab under Ronin once this module has been installed and activated within a game world or read the "how to use this module" file.
+This module requires the use of the Mörk Borg game sysyem located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/tree/main. (also available on from within Foundry interface)
 
-Current download location for user testing WIP version of the module:
-https://drive.google.com/file/d/1M9HUYzyC4P0HDRMlhJnQ62Q-yYjOyT7b/view?usp=sharing
+Therefore please follow all instructions located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md for character creation, combat, creatures, inventory, etcetera.
 
-Current known issues or needing to be completed tasks:
-1) When you “get better or “level up” it will add silver (ryo)to a character. This either has to be taken off manually or simply level 2) up with manual dice rolls as opposed to the “get better button”
-3) Texts needs to be added,
-3) Class features for all classes but for Forgotten Ronin need to be added.
-4) There may be more roll tables that need to be added.
-5) Only a few monsters have been added. Simply create any others you need manually. 
-6) Honor “cheat sheets” need to be added
+Your first step to utilize and understand how to use this module should be to read thoroughly the HOW TO USE THIS MODULE journal entry included in the module.
 
+Please note: Ronin uses different terminology (and sometimes rules usage) for money, abilities, powers, and some other aspects of the game and rules.
+
+You may need to find your own processes to conduct combat actions not contained in the main (Mörk Borg) system. However Parry is included as a feat.
+The following terms in Rōnin utilize the data fields in parenthesis in the main (Mörk Borg) system.
+Swiftness (Agility)
+Spirit (Presence)
+Vigor (Strength)
+Resilience (Toughness)
+Texts (Powers/Scrolls)
+Ryo (Silver)
