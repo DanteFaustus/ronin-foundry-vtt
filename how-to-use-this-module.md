@@ -4,7 +4,7 @@ This module requires the use of the Mörk Borg game sysyem located here: https:/
 
 Therefore please follow all instructions located here: https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md for character creation, combat, creatures, inventory, etcetera. 
 
-Your first step to utilize and understand how to use this module this module should be to read thoroughly the _HOW TO USE THIS MODULE_ journal entry included in the module. 
+Your first step to utilize and understand how to use this module this module should be to read thoroughly the __HOW TO USE THIS MODULE__ journal entry included in the module. 
 
 Please note: Ronin uses different terminology (and sometimes rules usage) for money, abilities, powers, and some other aspects of the game and rules.
 - You may need to find your own processes to conduct combat actions not contained in the main (Mörk Borg) system. However Parry is included as a feat. 
