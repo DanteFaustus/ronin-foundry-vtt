@@ -1,0 +1,168 @@
+{
+  "id": "ronin-mork-borg",
+  "title": "Ronin (Mork Borg)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "description": "This is a module which adds Ronin(a Mork Borg hack by Slightly Reckless Games)play options and content to the Foundry Mork Borg system.",
+  "authors": [
+    {
+      "name": "Dante Faustus",
+      "discord": "DanteFaustus"
+    }
+  ],
+  "url": "https://github.com/DanteFaustus/ronin-foundry-vtt",
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "morkborg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "trappings",
+      "label": "Trappings",
+      "path": "packs/trappings",
+      "type": "Item",
+      "system": "morkborg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journal-entries",
+      "label": "Journal",
+      "path": "packs/journal-entries",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "morkborg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Ronin",
+      "sorting": "a",
+      "color": "#e00000",
+      "folders": [
+        {
+          "name": "Classes",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "classes"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Trappings",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "trappings"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Roll Tables",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "roll-tables"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Macros",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "macros"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Scenes",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "scenes"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Journal",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "journal-entries"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Actors",
+          "sorting": "m",
+          "color": "#c00000",
+          "packs": [
+            "actors"
+          ],
+          "folders": []
+        }
+      ],
+      "packs": []
+    }
+  ],
+    "manifest": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md",
+    "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md",
+    "readme": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md"
+}
