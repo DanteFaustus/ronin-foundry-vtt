@@ -1,7 +1,7 @@
 {
   "id": "ronin-mork-borg",
   "title": "Ronin (Mork Borg)",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -163,6 +163,6 @@
     }
   ],
     "manifest": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/module.json",
-    "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md",
+    "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/ronin-foundry-vtt_v1_2.zip",
     "readme": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md"
 }
