@@ -162,7 +162,7 @@
       "packs": []
     }
   ],
-    "manifest": "https://raw.githubusercontent.com/DanteFaustus/ronin-foundry-vtt/main/ronin-foundry-vtt/module.json",
+    "manifest": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/module.json",
     "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md",
     "readme": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md"
 }
