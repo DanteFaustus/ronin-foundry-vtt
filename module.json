@@ -48,16 +48,6 @@
       }
     },
     {
-      "name": "macros",
-      "label": "Macros",
-      "path": "packs/macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "journal-entries",
       "label": "Journal",
       "path": "packs/journal-entries",
