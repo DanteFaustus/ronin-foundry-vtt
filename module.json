@@ -1,12 +1,12 @@
 {
   "id": "ronin-mork-borg",
   "title": "Ronin (Mork Borg)",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
   },
-  "description": "This is a module which adds Ronin(a Mork Borg hack by Slightly Reckless Games)play options and content to the Foundry Mork Borg system.",
+  "description": "This is a module which adds Ronin (a Mork Borg hack by Slightly Reckless Games) play options and content to the Foundry Mork Borg system.",
   "authors": [
     {
       "name": "Dante Faustus",
@@ -119,15 +119,6 @@
           "color": "#c00000",
           "packs": [
             "roll-tables"
-          ],
-          "folders": []
-        },
-        {
-          "name": "Macros",
-          "sorting": "m",
-          "color": "#c00000",
-          "packs": [
-            "macros"
           ],
           "folders": []
         },
